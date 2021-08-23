@@ -11,3 +11,6 @@
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bcko&show_icons=true&theme=gotham" alt="bcko" />
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcko&hide=TeX&layout=compact)
+
