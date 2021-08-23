@@ -3,6 +3,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=bcko.bcko)
 [![Linkedin: gobcko](https://img.shields.io/badge/-gobcko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gobcko/)](https://www.linkedin.com/in/gobcko/)
 [![GitHub BC Ko](https://img.shields.io/github/followers/bcko?label=follow&style=social)](https://github.com/bcko)
+[![Gmail Badge](https://img.shields.io/badge/-gobcko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gobcko@gmail.com)](mailto:gobcko@gmail.com)
+
 
 
 
