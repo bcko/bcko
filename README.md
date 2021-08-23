@@ -2,6 +2,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bcko.bcko)
 [![Linkedin: gobcko](https://img.shields.io/badge/-gobcko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gobcko/)](https://www.linkedin.com/in/gobcko/)
+[![GitHub BC Ko](https://img.shields.io/github/followers/bcko?label=follow&style=social)](https://github.com/bcko)
+
 
 
 📈 my github stats
