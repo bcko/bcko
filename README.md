@@ -28,6 +28,5 @@
  
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-gobcko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gobcko@gmail.com)](mailto:gobcko@gmail.com)
 [![Linkedin: gobcko](https://img.shields.io/badge/-gobcko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gobcko/)](https://www.linkedin.com/in/gobcko/)
 
