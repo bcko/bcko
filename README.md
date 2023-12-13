@@ -26,7 +26,4 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcko&hide=TeX&layout=compact)
  
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin: gobcko](https://img.shields.io/badge/-gobcko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gobcko/)](https://www.linkedin.com/in/gobcko/)
 
